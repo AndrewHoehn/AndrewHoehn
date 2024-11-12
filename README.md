@@ -4,5 +4,5 @@ I'm a marketing strategist at a small agency where I focus on using data to help
 ## 🛠️ What You'll Find Here
 Most of my projects are geared toward **data gathering and analysis** – little utilities that help pull insights from the digital world. As I create tools that might be helpful for others, I'll share them here with you!
 
-## 🎒 A Little About Me
-Outside of marketing, I’m a dad to five  kids, a husband to a medical professional, and an enthusiastic (though slow) mountain biker, and a general enjoyer of the outdoors.
+## 🎒 About Me
+Outside of my work, I’m a dad to five kids, a husband to a medical professional, and an enthusiastic (though slow) mountain biker, and a general enjoyer of the outdoors.
